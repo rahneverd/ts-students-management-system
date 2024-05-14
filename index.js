@@ -39,6 +39,7 @@ while (isRunning) {
             isRunning = false;
             break;
         default:
+            isRunning = false;
             break;
     }
 }

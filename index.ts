@@ -51,6 +51,7 @@ while (isRunning) {
       break;
   
     default:
+      isRunning = false
       break;
   }
 
